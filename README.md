@@ -20,4 +20,4 @@
 
 (Merak etmeyin, linkler spam değil :D)
 
-![Snake animation](https://github.com/gulsekykc/gulsekykc/blob/output/github-contribution-grid-snake.svg)
+
