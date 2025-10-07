@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Merhaba, ben Gülse
 
-<!--
-**gulsekykc/gulsekykc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 Şu anda bir siber güvenlik projesi üzerinde çalışıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Son zamanlarda yapay zekayı günlük hayatta işleri kolaylaştıracak projelere entegre etmeyi öğreniyorum.
+
+👯 Staj yapmak istediğim alanlar: Yazılım geliştirme, siber güvenlik ve yapay zeka.
+
+💬 Projelerimde sadece sorun çözmeye değil, aynı zamanda güvenli, temiz ve tasarıma önem veren bir kod yapısına odaklanırım.
+
+⚡ Ayrıca fizik ve biyoloji gibi alanlarda da tam bir geek sayılırım. 
+
+### 📫 Bana ulaşabileceğiniz yerler:
+
+[💼 LinkedIn](https://www.linkedin.com/in/g%C3%BClse-kay%C4%B1kc%C4%B1-4624391aa/)  
+[📝 Medium](https://medium.com/@gulsekykc)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsekykc&layout=compact&theme=tokyonight)
+
+(Merak etmeyin, linkler spam değil :D)
+
+![Snake animation](https://github.com/gulsekykc/gulsekykc/blob/output/github-contribution-grid-snake.svg)
