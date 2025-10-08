@@ -16,7 +16,7 @@
 [💼 LinkedIn](https://www.linkedin.com/in/g%C3%BClse-kay%C4%B1kc%C4%B1-4624391aa/)  
 [📝 Medium](https://medium.com/@gulsekykc)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsekykc&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsekykc&layout=compact&theme=tokyonight) 
 
 (Merak etmeyin, linkler spam değil :D)
 
