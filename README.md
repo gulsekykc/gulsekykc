@@ -1,8 +1,6 @@
 ## 👋 Merhaba, ben Gülse
 
 
- Şu anda bir siber güvenlik projesi üzerinde çalışıyorum.
-
  Son zamanlarda yapay zekayı günlük hayatta işleri kolaylaştıracak projelere entegre etmeyi öğreniyorum.
 
  Staj yapmak istediğim alanlar: Yazılım geliştirme, siber güvenlik ve yapay zeka.
