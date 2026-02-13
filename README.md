@@ -3,8 +3,6 @@
 
  Son zamanlarda yapay zekayı günlük hayatta işleri kolaylaştıracak projelere entegre etmeyi öğreniyorum.
 
- Staj yapmak istediğim alanlar: Yazılım geliştirme, siber güvenlik ve yapay zeka.
-
  Projelerimde sadece sorun çözmeye değil, aynı zamanda güvenli, temiz ve tasarıma önem veren bir kod yapısına odaklanırım.
 
  Ayrıca fizik ve biyoloji gibi alanlarda da tam bir geek sayılırım. 
